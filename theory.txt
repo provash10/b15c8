@@ -1,0 +1,87 @@
+#CSS Intro 
+ Casecading Style Sheet
+
+CSS 3 Types
+a. Inline 
+b. Internal
+c. Extranal Best use*****
+
+a. Inline >>> body tag 
+<h1 style="background-color: green; color: red;"> This is our first CSS Class</h1>
+
+b. Internal >>> Head Tag
+<style> 
+        h1{
+            background-color: red;
+            color: white;
+        }
+        p{
+            background-color: blue;
+            color: green;
+        }
+    </style>
+
+c. Extranal  ### Linkup with index.html >>> Head Option
+<link href="style.css" rel="stylesheets">
+
+style.css >>> new folder
+
+h1{
+            background-color: red;
+            color: white;
+        }
+        p{
+            background-color: blue;
+            color: green;
+        }
+============================================
+
+###Class 8 
+Class-8 (CSS identifier, div element)
+
+
+###dentifier 
+1. tag
+2. Class (.) 
+3. id  (#) 
+
+Class meaningfull word setup
+h1= heading
+h2 = heading2/heading_2/heading-2
+h3 = heading3/heading_3/heading-3
+Hello everyone = greetings
+================================
+### div block element
+<div> </div>
+<section> </section>
+<style> </style> 
+<script> </script>
+
+Create a Box # Name=  <!--Box-->
+
+Website 
+<section> </section> many parts 
+1. header section
+2. body section
+3. footer section
+
+3. footer section 
+if footer have 4 parts  means take 4 div (<div> </div>)
+
+
+border : koto mota / chikon 1px
+border type = solid/doubled/wave/ dotted/dashed
+border color= red/black/etc 
+border
+
+margin 
+padding
+
+.line{
+    display: flex;
+}
+
+
+
+
+
